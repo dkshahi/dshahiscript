@@ -1,2 +1,5 @@
 THis is my first fil
-this is mys files e
+this is mys filese
+new file updated
+code is updated 
+>>>>>>> bd952ed... updated file
