@@ -1,0 +1,3 @@
+we want to practice git confilict and it is very use1
+we want to practice git confilict  it is very use2
+we want to practice git and it is very use3
