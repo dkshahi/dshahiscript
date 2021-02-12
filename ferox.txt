@@ -1,3 +1,5 @@
 this is my first comment and it is going to fix the code
-
+we want to practice git confilict and it is very use
+we want to practice git confilict  it is very use
+we want to practice git and it is very use3
 
