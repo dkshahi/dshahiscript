@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 THis is my first fil
 this is mys filese
 new file updated
 code is updated 
+=======
+This is snew file updated
+>>>>>>> Development
 new file updated 
 
 THis is my first file
