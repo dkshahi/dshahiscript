@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+
+This is snew file update
 THis is my first fil
 this is mys filese
 new file updated
-code is updated 
-=======
+code is updat
 This is snew file updated
->>>>>>> Development
 new file updated 
-
 THis is my first file
