@@ -10,5 +10,6 @@ code is updat 3
 code is updat 4
 code is updat 5
 code is updat 6
-
+I want to create a git conflict
+I have to create on Devops PRoject and it si working fine
 
