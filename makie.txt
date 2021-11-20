@@ -10,12 +10,7 @@ This is my updated code
 I have fixed this issue and working fine
 I have fixed this issue and working fine12
 code is updat
-code is updat 1
-code is updat 2
-code is updat 3
-code is updat 4
-code is updat 5
-code is updat 6
+
 I want to create a git conflict
 I have to create on Devops PRoject and it si working fine
 
